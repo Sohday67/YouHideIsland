@@ -1,0 +1,9 @@
+Package: com.youhideisland.tweak
+Name: YouHideIsland
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A YTLite tweak that prevents Dynamic Island from showing when the YouTube app is in the foreground. The Now Playing information will only be published when the app is in the background.
+Maintainer: Your Name
+Author: Your Name
+Section: Tweaks
+Depends: mobilesubstrate
